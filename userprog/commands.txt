@@ -1,0 +1,3 @@
+in proj3, ../bin/nachos -x <coff_file>.coff executes a particular coff in the test folder
+
+test/syscall.h has descriptions for syscalls
